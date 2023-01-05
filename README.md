@@ -201,15 +201,11 @@ I'm a student in Computer Engineering at King Mongkut's University of Technology
 </div>
 
 <h2 align="center">Current Stats</h2>
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grapeka&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grapeka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
 <p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=Grapeka&show_icons=true&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grapeka&hide_border=true&layout=compact"/>
 
-<img width="480px" src="https://github-readme-stats.vercel.app/api?username=Grapeka&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" alt="Grape | Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grapeka&hide_border=true&layout=compact&theme=radical" alt="Grape | Top Languages" />
 
 </p>
 
