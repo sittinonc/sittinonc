@@ -170,8 +170,8 @@ I'm a student in Computer Engineering at King Mongkut's University of Technology
 
 <h2 align="center">Current Stats</h2>
 <p align=center>
-<img width="480px" src="https://github-readme-stats.vercel.app/api?username=grapeka&theme=default&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Grape | Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grapeka&hide_border=true&layout=compact"/>
+<img width="480px" src="https://github-readme-stats.vercel.app/api?username=sittinonc&theme=default&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Grape | Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sittinonc&hide_border=true&layout=compact"/>
 
 
 
