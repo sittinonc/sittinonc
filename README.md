@@ -1,10 +1,3 @@
-<div align="center">
-<h2>Hi, I'm a software engineer 👋</h2>
-<p>
-I'm a student in Computer Engineering at King Mongkut's University of Technology Thonburi. I have a passion for software development, particularly web development and backend development. My professional goal is to become a software engineer and make a positive impact in the tech industry.
-</p>
-</div>
-
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
 <p align="left">
